@@ -14,9 +14,10 @@
 #project_columns{
 	#background-color: white;
 }
+
 #project_columns img{
 	height: 300px;	
-	#width: 500px;
+	width: 500px;
 }
 
 #project_content{
