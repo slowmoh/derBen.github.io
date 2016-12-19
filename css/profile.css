@@ -1,0 +1,46 @@
+#my-info{background-color:black;}
+
+#my-info p,
+#my-info h5{
+		font-family: 'Courier New', Arial;
+		color: white;
+}
+#profile_pic{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+#project_columns{
+	#background-color: white;
+}
+#project_columns img{
+	height: 300px;	
+	#width: 500px;
+}
+
+#project_content{
+	#background-color: black;
+}
+
+#top_callout{
+	background-color: black;
+	font-family: 'Courier New', Arial;
+	color: white;
+}
+
+#top_callout p,
+#top_callout h1{
+	
+	font-family: 'Courier New', Arial;
+	color: white;
+}
+/*
+.profile_column p,
+.profile_column h5{
+	#font-family: 'Courier New', Arial;
+	#color: white;
+	#background-color: black;
+}
+*/
+
