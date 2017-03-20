@@ -1,9 +1,9 @@
-#my-info{background-color:black;}
+#my-info{background-color:white;}
 
 #my-info p,
 #my-info h5{
 		font-family: 'Courier New', Arial;
-		color: white;
+		color: black;
 }
 #profile_pic{
 	border-radius: 50%;
@@ -25,16 +25,16 @@
 }
 
 #top_callout{
-	background-color: black;
+	background-color: white;
 	font-family: 'Courier New', Arial;
-	color: white;
+	color: black;
 }
 
 #top_callout p,
 #top_callout h1{
 	
 	font-family: 'Courier New', Arial;
-	color: white;
+	color: black;
 }
 /*
 .profile_column p,
